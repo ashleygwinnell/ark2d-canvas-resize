@@ -1,4 +1,4 @@
 .d
+*.o
 .DS_Store
-.o
 output/
